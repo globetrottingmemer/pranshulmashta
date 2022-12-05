@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/2000/0*kqh-44DT1sLFKX3e)
 <h1 align="center">Hi , I'm Pranshul Mashta</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="file:///C:/Users/PRANSHUL%20MASHTA/Downloads/27984292.jpg">
+<img align="right" alt="Coding" width="400" src=file:///C:/Users/PRANSHUL%20MASHTA/Downloads/27984292.jpg>
 
 - 🔭 I’m currently working on **Data Science Projects**
 
