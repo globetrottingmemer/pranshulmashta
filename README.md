@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/2000/0*kqh-44DT1sLFKX3e)
+![MasterHead] (https://miro.medium.com/max/2000/0*kqh-44DT1sLFKX3e)
 <h1 align="center">Hi , I'm Pranshul Mashta</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src=https://923259.smushcdn.com/2321054/wp-content/uploads/2020/02/python-libraries-for-data-science-1.jpg?size=1170x669&lossy=0&strip=1&webp=1>
