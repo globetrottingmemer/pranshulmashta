@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **Machine   Learning, Python and SQL**
+- 🌱 I’m currently learning **  Machine   Learning, Python and SQL**
 
 - 📫 How to reach me **Pranshulmashta@gmail.com**
 
