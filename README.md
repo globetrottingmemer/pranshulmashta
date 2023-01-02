@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src=https://923259.smushcdn.com/2321054/wp-content/uploads/2020/02/python-libraries-for-data-science-1.jpg?size=1170x669&lossy=0&strip=1&webp=1>
 
-- 🔭 I’m currently working on **Data Science Projects**
+- 🔭 I’m currently looking for job in  **Data Analytics.**
 
-- 🌱 I’m currently learning **Machine   Learning, Python and SQL**
+- 🌱 I’m currently learning **Python, SQL, Machine Learning and Data Analytics.**
 
 - 📫 How to reach me **Pranshulmashta@gmail.com**
 
