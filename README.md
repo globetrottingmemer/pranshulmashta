@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for job in  **Data Analytics.**
 
-- 🌱 I’m currently learning **Python, SQL, Machine Learning and Data Analytics.**
+- 🌱 I’m currently learning **Python, SQL, MS Excel, MS Power BI, Machine Learning and Data Analytics.**
 
 - 📫 How to reach me **Pranshulmashta@gmail.com**
 
