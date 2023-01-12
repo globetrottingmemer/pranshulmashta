@@ -1,4 +1,4 @@
-![MasterHead](https://blog.trueaccord.com/wp-content/uploads/2020/01/data-has-better-idea.png)
+![MasterHead](https://miro.medium.com/max/2000/0*kqh-44DT1sLFKX3e)
 <h1 align="center">Hi 👋, I'm Pranshul Mashta</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://uploads-ssl.webflow.com/5e3e4f1d3cde64283a4b9ac5/5e3e52b821c192632c63bfa9_DATA%20SCIENCE%20AND%20DATA%20ANALYTICS.jpg">
